@@ -1,0 +1,233 @@
+body {
+    font-family: 'Lato', sans-serif;
+    
+}
+.btn-primary {
+    border-radius: 8px;
+background: #E55473;
+display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+}
+.product{
+    width: 1920px;
+height: 4867px;
+}
+
+
+.header {
+    background: rgba(229, 84, 115, 0.10);
+}
+.banner {
+    padding: 30px 30px 0px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.banner-content {
+    width: 1920px;
+height: 850px;
+flex-shrink: 0;
+background: rgba(229, 84, 115, 0.10);
+}
+.banner .flower-pic {
+    width: 635px;
+    height: 800px;
+    flex-shrink: 0;
+}
+.banner-title {
+    display: flex;
+width: 708px;
+flex-direction: column;
+flex-shrink: 0;
+color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.banner-des{
+    display: flex;
+width: 634px;
+flex-direction: column;
+flex-shrink: 0;
+color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.feature-flower{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.section-description{
+    display: flex;
+  flex-direction: column;
+flex-shrink: 0;
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.box{
+    display: flex;
+    width: 464px;
+height: 538px;
+flex-shrink: 0;
+border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+}
+.box-ppb{
+    width: 464px;
+height: 538px;
+flex-shrink: 0;
+border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+}
+.image-two{
+    width: 370px;
+height: 370px;
+flex-shrink: 0;
+}
+.box-ddd{
+    width: 464px;
+height: 538px;
+flex-shrink: 0;
+border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+}
+.image-three{
+    width: 314px;
+height: 471px;
+flex-shrink: 0;
+}
+.image-pink{
+    
+    width: 310px;
+height: 428px;
+flex-shrink: 0;
+}
+.text{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+}
+.icons-container .icons{
+    background: #fff;
+    border: .1rem solid rgba(0,0,0,.1);
+    padding: 2rem;
+    display: flex;
+    align-items: center;
+    flex: 1 1 25rem;
+}
+.icons-container .icons img{
+    height: 5rem;
+    margin-right: 2rem;
+}
+
+.icons-container .icons h3{
+    color: #333;
+    padding-bottom: .5rem;
+    font-size: 1.5rem;
+}
+.hot-deal{
+    width: 1922px;
+height: 620px;
+flex-shrink: 0;
+border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+}
+.hot-pic{
+    width: 318px;
+height: 420px;
+flex-shrink: 0;
+}
+.insta{
+    width: 1920px;
+height: 4867px;
+}
+.fulls-container{
+ display: flex;
+        gap: 24px;
+    
+}
+.full{
+    padding: 30px;
+
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+footer {
+    display: flex;
+    gap: 100px;
+    background: #111010;
+    margin-top: 100px;
+    padding: 130px 200px;
+
+}
+.section-title{
+    display: flex;
+    color: #E55473;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.section-description{
+    display: flex;
+width: 625px;
+flex-direction: column;
+flex-shrink: 0;
+color: rgba(255, 255, 255, 0.90);
+text-align: center;
+}
+.limon-ok{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+
+.contract {
+    background-image:url(../images/Rectangle\ 9.png)
+    width: 50%;
+
+}
+
+
+
+.contact input[type="text"], .contact input[type="email"],
+textarea {
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color: #757575;
+    border-radius: 5px;
+    background: #FFF;
+    border: 0;
+    width: 100%;
+}
+
+
